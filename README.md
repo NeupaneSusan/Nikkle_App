@@ -25,9 +25,12 @@ A basic Flutter application developed as part of an assignment for MarginTop Sol
    ```bash
     git clone <repository_url>
 3. Navigate to the project directory
+    ```bash
     cd nikkle_mobile_app
 4. Install dependencies
+    ```bash
     flutter pub get
 5. Run on an emulator or device
+    ```bash
     flutter run
   
