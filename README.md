@@ -1,16 +1,33 @@
-# nikkle_app
+# Nikkle Mobile App
 
-A new Flutter project.
+A basic Flutter application developed as part of an assignment for MarginTop Solutions.
+
+## Features
+
+- **Splash Screen** with animation.
+- **Login Screen** with input fields for username and password.
+- **Dashboard**:
+  - Displays items with details (name, price, weight).
+  - Includes search functionality.
+  - Navigation tabs for Cart, Settings, Profile.
+  - Logout button.
+- **Checkout Screen**:
+  - Shows selected items.
+  - Item quantity can be adjusted.
+  - Total price updates in real-time.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Flutter SDK**: Ensure Flutter is installed ([installation guide](https://flutter.dev/docs/get-started/install)).
+2. Clone the repository:
+   ```bash
+    git clone <repository_url>
+3. Navigate to the project directory
+    cd nikkle_mobile_app
+4. Install dependencies
+    flutter pub get
+5. Run on an emulator or device
+    flutter run
+  
