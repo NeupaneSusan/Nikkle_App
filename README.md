@@ -1,6 +1,6 @@
 # Nikkle Mobile App
 
-A basic Flutter application developed as part of an assignment for MarginTop Solutions.
+A basic Flutter application developed.
 
 ## Features
 
@@ -23,7 +23,7 @@ A basic Flutter application developed as part of an assignment for MarginTop Sol
 1. **Flutter SDK**: Ensure Flutter is installed ([installation guide](https://flutter.dev/docs/get-started/install)).
 2. Clone the repository:
    ```bash
-    git clone <repository_url>
+    git clone https://github.com/NeupaneSusan/Nikkle_App
 3. Navigate to the project directory
     ```bash
     cd nikkle_mobile_app
